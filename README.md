@@ -4,6 +4,6 @@
 
 Love Scala So provides Scala code samples, articles and tutorials that will help you to learn Scala.
 
-> mixaceh <mixaceh@gmail.com>
+mixaceh <mixaceh@gmail.com>
 
 1.openyu-sbt
